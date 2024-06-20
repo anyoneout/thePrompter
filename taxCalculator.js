@@ -1,3 +1,4 @@
+
 function taxCalculatorCheck() {
     let firstItemCost;
     let secondItemCost;

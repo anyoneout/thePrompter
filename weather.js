@@ -1,3 +1,4 @@
+
 function weatherCheck() {
     let zipCode;
     let pastDate;
